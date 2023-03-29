@@ -2,4 +2,34 @@ Slack Plans
 
 Conhecimento requerido:
 * Conhecer os planos, que possuem diferentes features para uma variedade de necessidades de negócios.
-* 
+* Mesmo um administrador do plano Business+, por exemplo, deverá poder facilmente fazer a transição para uma função em uma empresa no
+plano Slack Enterprise Grid.
+
+Principais habilidades: 
+
+1 Corretas associações dos principais recursos com cada um dos três planos pagos do Slack.
+2 Identifique o plano do Slack que melhor atende às necessidades comerciais comuns.  
+3 Explique como o plano Enterprise Grid é diferente de outros planos do Slack.
+
+Slack for Teams:  Pro and Business+
+
+O Slack for Teams é um workspace único para sua empresa ou equipe de pequeno a médio porte. 
+
+Pro
+
+* Unlimited message storage and unlimited integrations
+   * O Slack se torna uma ferramenta completa de gestão de conhecimento para todo o histórico de sua equipe, tudo em um só lugar, a apenas uma pesquisa
+   de distância.
+   * 10GB in file storage per member.
+* Full message archive
+* Unlimited apps
+* Guest access
+* Google authentication (OAuth)
+* Custom retention policies
+* Priority support
+* Ability to forward emails into Slack
+* User groups
+* Group voice and video calls
+* Custom profile fields
+* Screen sharing
+
