@@ -16,3 +16,30 @@ Channel - Os canais ordenam e esclarecem o trabalho: é possível criá-los para
 * Os canais privados são destinados a conversas que não devem ser divulgadas a todos.
 
 Storage - Carregue qualquer coisa para o Slack.
+
+Multi-workspace channels - Conecte vários espaços de trabalho internos juntos.
+
+Admin API's - Ajudam a automatizar a org. Permitem que você crie ferramentas para tarefas.
+
+SAML 2.0 - Forneça acesso de login seguro para Slack usando seu provedor de identidade.
+
+Auth - Login e sincronia com email G suíte. Não se aplica ao Enterprise grid.
+
+IDP Groups - Sincronizar grupos do seu Provedor de identidade, para atribuir automaticamente esses usuários para determinados espaços de trabalho em sua organização
+Grid.
+
+Domain Claiming - Associe todos os seus domínios, para evitar que pessoas criem espaços de trabalho fora da sua organização.
+
+Whitelist IP's - Defina restrições e aberturas de acessos, por IPs.
+
+Device Management (EMM, Session management etc) - Controle como os dados da empresa são usados e acessados em dispositivos móveis: escolha restringir o download,
+copiar e colar, controle de sessões etc.
+
+Data Protection - Encriptar dados, varredura de arquivos que ferem políticas de privacidade, controle de prevenção de perda de dados, logs para auditoria etc.
+
+E- Discovery - Armagene mensagens e arquivos do Slack
+em soluções de terceiros (Ex.: AWS), para arquivamento, distribuição e conformidade.
+
+Custom Terms of Service - Personalize as regras corporativas para participar e usar o Slack, por meio de termos personalizados de os usuários do serviço.
+
+SCIM API - Gerenciamentos dos dados de perfil através de API com um provedor de identidade.
